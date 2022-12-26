@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tour at Singapore</string>
+
+    <string name="category_museum">Museum</string>
+
+    <string name="category_shopping">Shopping</string>
+
+    <string name="category_local">Local</string>
+
+    <string name="category_tourist">Touristic</string>
+</resources>
